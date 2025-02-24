@@ -1,2 +1,2 @@
 # CardGame
-A card game from the mind of YoungJoke digitalized by NMCameron
+A card game from the mind of higbeej16 digitalized by NMCameron
