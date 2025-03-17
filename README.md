@@ -1,9 +1,8 @@
 # CardGame
 A card game from the mind of higbeej16 digitalized by NMCameron
 
-===============================================================
-|                          Introduction                       |
-===============================================================
+Introduction
+=
 First and foremost, #CardGame is a turn and resource based card game.
 Each turn is broken down into four phases.
 
@@ -20,16 +19,11 @@ Phase three - Attack phase
 
 Phase four - Final Summon
     Last chance to Summon a unit before the mana regen stage in phase one.
-
 **Question to Higgles, did I get it wrong? If a unit is summoned here can they move during the next movement phase? or do they have to wait a full four turns... essentially making this stage useless..?**
 
 
-
-
-
-===============================================================
-|                          Instructions                       |
-===============================================================
+Instructions
+=
 You begin by selecting the troops you wish to use for the game from the troop pool
     You select your troops at the same time as your opponent to promote fair play (and prevent decks built purely to counter.)
 
