@@ -7,12 +7,12 @@ First and foremost, "Jacobs Big Hogged Card Game" is a turn and resource based c
 Each turn is broken down into four phases.
 
 Phase One - Initial Summon
-    During this phase you will be able to choose which unit you wish to summon. A unit must wait one phase before it is able to act.
+    During this phase you will be able to choose which unit(s) you wish to summon. A unit must wait one phase before it is able to act.
     You also regen one mana during this phase as well
-    ***Issue- If we wish to make this into a real time game, the gameplay of this may get tricky with other units potentially moving while this one has to wait**
 
 Phase Two - Movement
     Fairly self explanitory, troops ***must*** move during this phase, unless they are in combat.
+    If they are in combat they may not move.
 
 Phase Three - Attack
     During attack phase, units must attack the nearest unit to them, ranged characters included.
