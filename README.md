@@ -1,5 +1,5 @@
-# Jacobs Big Hogged Card Game
-A card game from the mind of higbeej16 digitalized by NMCameron
+# Jacob's Big Hogged Card Game
+A card game from the mind of /higbeej16 digitalized by /NMCameron
 
 Introduction
 =
