@@ -1,6 +1,0 @@
-public class PlayerProfile {
-	String userName;
-	int wins, losses, draws, gamesPlayed, matchmakingElo;
-	
-	matchmakingElo = 
-}

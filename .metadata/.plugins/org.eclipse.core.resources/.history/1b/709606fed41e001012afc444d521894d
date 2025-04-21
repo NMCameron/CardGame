@@ -1,7 +1,0 @@
-import Cards;
-
-public class TroopArcher extends Cards{
-	public TroopArcher(int level) {
-		super("Archer", level, 2 * level, level, 1, 0);
-	}
-}

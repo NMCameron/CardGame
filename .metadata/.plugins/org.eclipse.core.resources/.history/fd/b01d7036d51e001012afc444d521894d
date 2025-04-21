@@ -1,7 +1,0 @@
-package Troops;
-
-public class Archer extends Cards{
-	public Archer(int level) {
-		super("Archer", level, 2 * level, level, 1, 0);
-	}
-}

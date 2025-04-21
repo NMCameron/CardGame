@@ -1,8 +1,0 @@
-public class troopKnight extends Cards{
-	public troopKnight(int level) {
-		this.hitPoints = 2 * level;
-		this.attackDamage = 1 * level;
-		this.movementSpeed = 1;
-		this.attackRange = 0;
-	}
-}

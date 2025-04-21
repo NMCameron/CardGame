@@ -1,6 +1,0 @@
-public class troopKnight extends Cards{
-	hitPoints = 2 * level;
-	attackDamage = 1 * level;
-	movementSpeed = 1;
-	attackRange = 0;
-}
