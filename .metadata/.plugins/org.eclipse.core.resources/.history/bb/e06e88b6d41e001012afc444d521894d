@@ -1,0 +1,64 @@
+
+public class Cards {
+String troopName;
+int hitPoints,movementSpeed,attackDamage,attackRange,level;
+
+public Cards(String troopName, int hitPoints, int movementSpeed, int attackDamage, int attackRange, int level) {
+	super();
+	this.troopName = troopName;
+	this.hitPoints = hitPoints;
+	this.movementSpeed = movementSpeed;
+	this.attackDamage = attackDamage;
+	this.attackRange = attackRange;
+	this.level = level;
+}
+
+	public String getTroopName() {
+		return troopName;
+	}
+
+	public void setTroopName(String troopName) {
+		this.troopName = troopName;
+	}
+
+	public int getHitPoints() {
+		return hitPoints;
+	}
+
+	public void setHitPoints(int hitPoints) {
+		this.hitPoints = hitPoints;
+	}
+
+	public int getMovementSpeed() {
+		return movementSpeed;
+	}
+
+	public void setMovementSpeed(int movementSpeed) {
+		this.movementSpeed = movementSpeed;
+	}
+
+	public int getAttackDamage() {
+		return attackDamage;
+	}
+
+	public void setAttackDamage(int attackDamage) {
+		this.attackDamage = attackDamage;
+	}
+
+	public int getAttackRange() {
+		return attackRange;
+	}
+
+	public void setAttackRange(int attackRange) {
+		this.attackRange = attackRange;
+	}
+
+	public int getLevel() {
+		return level;
+	}
+
+	public void setLevel(int level) {
+		this.level = level;
+	}
+}
+

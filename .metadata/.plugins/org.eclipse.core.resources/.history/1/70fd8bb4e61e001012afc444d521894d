@@ -1,0 +1,7 @@
+package Troops;
+
+public class Nymph extends Cards{
+	public Nymph(int level) {
+		super("Nymph", level, 2 * level, level, 2, 2);
+	}
+}
